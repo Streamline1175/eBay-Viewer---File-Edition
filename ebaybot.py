@@ -62,4 +62,4 @@ async def ebaylist(ctx):
     print(f"Completed - Total Items: {total_items} - {username}")
 
 # Replace 'YOUR_BOT_TOKEN' with your bot's token
-bot.run('MTE2MDA4OTkxMDEwNDAzOTUxNw.GPtM9Y.pDdY8cPaOfHhUER-6XZj5Dmh7fZTq6PsrwxO3k')
+bot.run('<Discord Bot API Token>')
